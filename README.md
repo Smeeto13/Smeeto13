@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smeeto13
+- 👋 Hi, I’m Sophie
 - 👀 I’m interested in Linux, C++ and Arduino/Microcontrollers
 - 🌱 I’m currently studying Chemistry, Physics and Computer Science A-Levels
 - 💞️ I’m looking to collaborate on ...
