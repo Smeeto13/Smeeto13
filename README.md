@@ -2,4 +2,4 @@
 - 👀 I’m interested in Linux, C++, Rust, ML and Arduino/Microcontrollers
 - 🌱 I’m currently studying Chemistry at Aston Uni
 - 💞️ I’m looking to collaborate on anything to gain experience
-- 📫 How to reach me: sophie.destiny631@simplelogin.com
+- 📫 How to reach me: smeeto13@smeeton.icu
