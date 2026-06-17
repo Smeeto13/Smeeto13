@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophie
-- 👀 I’m interested in Linux, C++, Rust, ML and Arduino/Microcontrollers
+- 👀 I’m interested in Linux and Embedded developement
 - 🌱 I’m currently studying Chemistry at Aston Uni
 - 💞️ I’m looking to collaborate on anything to gain experience
-- 📫 How to reach me: smeeto13@smeeton.icu
+- 📫 How to reach me: 
